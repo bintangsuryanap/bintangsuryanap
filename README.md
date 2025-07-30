@@ -1,6 +1,6 @@
 ## Hello Everyone I'm Bintang Suryana Putra 👋
 
-![Bintang](img/github-header-image.png)
+![Bintang](./img/github-header-image.png)
 
 <!--
 **bintangsuryanap/bintangsuryanap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
